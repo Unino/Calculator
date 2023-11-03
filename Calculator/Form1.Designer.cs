@@ -101,6 +101,7 @@
             // 
             // btTru
             // 
+            this.btTru.ForeColor = System.Drawing.Color.Red;
             this.btTru.Location = new System.Drawing.Point(248, 160);
             this.btTru.Name = "btTru";
             this.btTru.Size = new System.Drawing.Size(82, 33);
