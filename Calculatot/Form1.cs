@@ -15,7 +15,7 @@ namespace Calculatot
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Thanh vien 2");
+            MessageBox.Show("Xu ly 1 textbox");
         }
     }
 }
