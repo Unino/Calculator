@@ -15,7 +15,7 @@ namespace Calculatot
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Xu ly 1 textbox");
+            txtKQ.Text = (int.Parse(textBox1.Text) + int.Parse(textBox2.Text)).ToString();
         }
     }
 }
